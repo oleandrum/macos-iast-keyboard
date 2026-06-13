@@ -1,6 +1,3 @@
-![GitHub Release](https://img.shields.io/github/v/release/oleandrum/macos-iast-keyboard)
-![GitHub License](https://img.shields.io/github/license/oleandrum/macos-iast-keyboard)
-
 This repository provides a custom keyboard layout for macOS that enables easy
 typing using the
 [IAST](https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration)
