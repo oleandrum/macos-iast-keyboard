@@ -1,3 +1,10 @@
+This repository provides a custom keyboard layout for macOS that enables easy
+typing using the
+[IAST](https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration)
+(International Alphabet of Sanskrit Transliteration) standard. The layout was
+created using SIL Ukelele, a tool for building and editing macOS keyboard
+layouts.
+
 ## Features
 
 - Easy access to IAST diacritics using intuitive key combinations
@@ -116,8 +123,9 @@ and start typing transliterated text with diacritics.
 
 ## Contributing
 
-Contributions, suggestions, and improvements are welcome! Feel free to open
-issues or submit bug. I'll do my best to address them as quickly as possible.
+Contributions, suggestions, and improvements are welcome! Feel free to
+[open issues or submit bug](https://github.com/oleandrum/macos-iast-keyboard/issues).
+I'll do my best to address them as quickly as possible.
 
 ## License
 

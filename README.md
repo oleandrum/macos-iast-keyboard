@@ -125,8 +125,9 @@ and start typing transliterated text with diacritics.
 
 ## Contributing
 
-Contributions, suggestions, and improvements are welcome! Feel free to open
-issues or submit bug. I'll do my best to address them as quickly as possible.
+Contributions, suggestions, and improvements are welcome! Feel free to
+[open issues or submit bug](https://github.com/oleandrum/macos-iast-keyboard/issues).
+I'll do my best to address them as quickly as possible.
 
 ## License
 
